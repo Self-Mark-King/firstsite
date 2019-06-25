@@ -88,7 +88,7 @@ body{
   position: absolute;  
   top: 1017px;
   left: 650px;
-  height:600px;
+  height:497px;
   width: auto;
 }
 .footer{
@@ -111,7 +111,7 @@ height: 15px;
 widows: 15px;
 }
 .social a i.fab.fa-facebook-square{
-    line-height: 4;
+    line-height: 2;
 }
 .copy{
   float: right;
@@ -152,7 +152,7 @@ widows: 15px;
     height:70px;
     width:100%;
     position: absolute;
-    top: 1028px;
+    top: 1010px;
     background-color: #97D700;
 }
 .footer-about{
